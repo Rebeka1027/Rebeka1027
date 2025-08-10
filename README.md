@@ -20,14 +20,10 @@
     </div>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=14" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,py,java&perline=14" />
         </a>
     </p>
-    <p>
-        <img src="https://skillicons.dev/icons?i=php,py,java&perline=14" />
-        </a>
-    </p>
-    <br /><br />
+    <br />
     <div id="user-content-toc">
         <ul>
             <summary>
@@ -36,7 +32,7 @@
         </ul>
     </div>
     <p>
-        <img src="https://skillicons.dev/icons?i=mysql,github,vscode,blender,git,windows,kali&perline=14" />
+        <img src="https://skillicons.dev/icons?i=mysql,github,vscode,windows&perline=14" />
         </a>
     </p>
 </div>
